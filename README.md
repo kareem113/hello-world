@@ -1,5 +1,5 @@
 # hello-world
 MY first project
-// today is a beautiful day for coding //
+// Lesson 1 //
 
-//fantatstic beasts and where to find them //
+
